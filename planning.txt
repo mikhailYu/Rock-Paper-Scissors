@@ -1,0 +1,22 @@
+computer chooses random int from 1-3
+convert ints to
+1 = rock
+2 = paper
+3 = scissors
+
+output the cpu choice 
+
+player inputs either rock, paper or scissors
+else give fail message
+
+if rock and rock, paper and paper or scissors and scissors then tie
+
+else 
+rock beats scissors
+scissors beats paper
+paper beats rock
+
+add one point to the winner
+
+
+
